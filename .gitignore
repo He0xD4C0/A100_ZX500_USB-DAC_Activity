@@ -1,0 +1,21 @@
+# ─── Android / Gradle 构建产物 ─────────────────────────────
+.gradle/
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# ─── IDE ───────────────────────────────────────────────────
+*.iml
+.idea/
+/.idea
+
+# ─── OS ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ─── 导航 / 编辑器临时文件 ────────────────────────────────
+/navEditor.xml
+/assetWizardSettings.xml
